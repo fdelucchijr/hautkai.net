@@ -1,0 +1,232 @@
+#body {
+	width:1000px;
+	height:900px;
+	background-color:transparent;
+	background-image:url(images/background.jpg);
+}
+
+.mediabody {
+	position:absolute;
+	width:639px;
+	padding-left:0;
+	height:531px;
+	left:27px;
+	top:74px;
+}
+
+.menu {
+	position:absolute;
+	height:50px;
+	width:212px;
+	left:7px;
+	top:6px;
+}
+
+#contactbar {
+	font-style:inherit;
+	font-variant:inherit;
+	font-weight:inherit;
+	line-height:inherit;
+	font-stretch:inherit;
+	font-family:Helvetica;
+	color:#FFFFFF;
+	font-size:10pt;
+	padding-left:10px;
+	position:fixed;
+	width:171px;
+	padding-bottom:0;
+	height:39px;
+	left:2px;
+	bottom:855px;
+}
+
+#menu p a {
+	color:#333333;
+	text-decoration:none;
+	height:0;
+}
+
+#menu p {
+	padding-top:0;
+	padding-bottom:0;
+	margin-bottom:0;
+	margin-top:5px;
+	color:#3E3E3E;
+	font-size:9pt;
+	text-transform:uppercase;
+	letter-spacing:3px;
+	background-image:inherit;
+}
+
+#menu {
+	overflow:hidden;
+	position:absolute;
+	background-color:#A7A7A7;
+	padding-top:21px;
+	padding-right:15px;
+	bottom:0;
+	opacity:0.900316;
+	padding-left:15px;
+	width:167px;
+	height:2px;
+	left:385px;
+	background-image:inherit;
+}
+
+.booknowbutton {
+	position:absolute;
+	background-image:url(https://hautkai.net/images/book_now.png);
+	background-repeat-x:no-repeat;
+	background-repeat-y:no-repeat;
+	background-repeat:no-repeat;
+	width:143px;
+	height:41px;
+	left:438px;
+	top:408px;
+}
+
+.booknowbutton:hover {
+	background-image:url(https://hautkai.net/images/book_now_hover.png);
+}
+
+.bodytext {
+	position:absolute;
+	font-family:Verdana;
+	color:#333333;
+	letter-spacing:1.5px;
+	text-align:justify;
+	background-image:inherit;
+	width:397px;
+	left:1px;
+	top:-10px;
+	height:100%;
+	padding:inherit;
+	opacity:0.8860496;
+	padding-right:3px;
+	padding-left:3px;
+	line-height:20px;
+	font-size:12px;
+	margin:0;
+}
+
+h1 {
+	margin-top:0;
+	margin-bottom:0;
+	color:#FFFFFF;
+	padding-top:10px;
+	padding-left:10px;
+	font-family:Verdana;
+	font-weight:normal;
+	background-color:#333333;
+	opacity:1;
+}
+
+h2 {
+	margin-top:0;
+	margin-bottom:0;
+	color:#FFFFFF;
+	padding-left:10px;
+	font-family:Verdana;
+	font-weight:normal;
+	font-size:12px;
+	padding-top:8px;
+}
+
+.newStyle {
+	background-color:transparent;
+	background-attachment:inherit;
+	background-image:inherit;
+}
+
+.topBar {
+	background-color:#333333;
+	width:100%;
+	height:79px;
+}
+
+#mycontent {
+	position:static;
+	top:0;
+	margin-left:auto;
+	clear:right;
+	float:right;
+	background-attachment:fixed;
+	visibility:visible;
+	bottom:0;
+	left:0;
+	min-height:inherit;
+	max-height:inherit;
+	right:-600px;
+	margin-right:auto;
+	background-image:none;
+	width:400px;
+	height:100%;
+	background-color:rgba(0,0,0,0.00);
+	opacity:1;
+	border-image:initial;
+	border:1px solid #000000;
+}
+
+body {
+	background-color:#333333;
+	background-image:url(images/background.jpg);
+	position:relative;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	background-repeat-x:no-repeat;
+	background-repeat-y:no-repeat;
+	background-repeat:no-repeat;
+	width:100%;
+	height:100%;
+}
+
+#bottombar {
+	height:20px;
+	background-color:#333333;
+	color:#FFFFFF;
+	text-align:center;
+	font-size:10px;
+	font-family:Verdana;
+	padding-top:9px;
+	width:400px;
+	position:absolute;
+	bottom:0;
+}
+
+.blue {
+	color:#030A69;
+}
+
+.hyperlink {
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:underline;
+	font-size:12px;
+	font-style:italic;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+.listhead {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-style:oblique;
+	font-weight:bold;
+	font-variant:small-caps;
+	color:#FFFFFF;
+	text-decoration:overline;
+}
+
+.hyperlink2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000066;
+	text-decoration:none;
+}
+
+.interntitl {
+	font-size:18px;
+	font-weight:bolder;
+}
+
